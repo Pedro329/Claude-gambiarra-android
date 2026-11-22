@@ -1,0 +1,23 @@
+==============================================================
+                    WINDOWS
+==============================================================
+
+Para abrir: duplo clique em  iniciar.bat
+
+O que ele faz:
+  - abre o console em tela cheia (fonte Consolas 12px)
+  - liga UTF-8 e as cores ANSI
+  - acha o Python 3.9+ automaticamente
+  - instala o selenium se faltar
+  - entrega tudo para o iniciar.py
+
+Requisitos:
+  Python 3.9+  ->  https://python.org/downloads
+  (marque "Add python.exe to PATH" na instalacao)
+
+Se der erro de "Python nao encontrado", instale o Python e
+abra de novo. O resto e automatico.
+
+--------------------------------------------------------------
+  Gambiarra-Infinite  -  https://discord.gg/gambiarra
+--------------------------------------------------------------

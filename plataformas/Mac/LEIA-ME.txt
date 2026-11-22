@@ -1,0 +1,29 @@
+==============================================================
+                      macOS
+==============================================================
+
+Para abrir (duplo clique):
+    iniciar.command
+
+Ou pelo terminal:
+
+    chmod +x iniciar.command
+    ./iniciar.command
+
+O que ele faz:
+  - poe /opt/homebrew/bin e /usr/local/bin no PATH
+  - acha o python3 (3.9+) do Homebrew ou do sistema
+  - instala o selenium se faltar
+  - entrega tudo para o iniciar.py
+
+Requisitos:
+    brew install python@3
+  ou baixe em https://python.org/downloads
+
+Nota: na primeira vez o macOS pode avisar que o arquivo nao
+e de desenvolvedor identificado. Va em Ajustes do Sistema >
+Privacidade e Seguranca > "Abrir assim mesmo".
+
+--------------------------------------------------------------
+  Gambiarra-Infinite  -  https://discord.gg/gambiarra
+--------------------------------------------------------------

@@ -1,0 +1,20 @@
+RouterPlex
+
+ Confirm your email to finish setting up RouterPlex.
+
+ RouterPlex (https://routerplex.com)
+
+ Verify your email
+Confirm your address to open guided setup and connect your tool. Eligible accounts can then claim $1 in test credit when creating a setup key.
+
+ Verify email (https://routerplex.com/verify?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZjg5MGE2Mi04ZGY3LTQzMTktOGFlOC1kMjNiYjI5ZWVmYTYiLCJlbWFpbCI6InFvdDZnaHhsa3FAZmxkdWJhaS5jb20iLCJhdWQiOiJmYXN0YXBpLXVzZXJzOnZlcmlmeSIsImV4cCI6MTc5NDcwMjI1MX0.78jYbggShw-oDfSOsxzepsYVXZsn_aEzdJcnVYHojw4)
+
+If you didn't create a RouterPlex account, you can safely ignore this email.
+
+ One API key. A balance you control.
+
+ RouterPlex · routerplex.com (https://routerplex.com)
+  ·  Questions? support@routerplex.com (mailto:support@routerplex.com)
+
+ You're receiving this because you have a RouterPlex account.
+© 2026 RouterPlex.

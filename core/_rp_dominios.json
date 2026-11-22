@@ -1,0 +1,26 @@
+[
+ {
+  "prov": "mailtm",
+  "email": "kdivh9vygv@fldubai.com",
+  "v": "cloudflare",
+  "st": 403
+ },
+ {
+  "prov": "guerrilla",
+  "email": "ppdpvfui@guerrillamailblock.com",
+  "v": "cloudflare",
+  "st": 403
+ },
+ {
+  "prov": "tmpio",
+  "email": "oyw1w53fh@olipii.com",
+  "v": "cloudflare",
+  "st": 403
+ },
+ {
+  "prov": "maildrop",
+  "email": "9hmp8deqc@maildrop.cc",
+  "v": "cloudflare",
+  "st": 403
+ }
+]

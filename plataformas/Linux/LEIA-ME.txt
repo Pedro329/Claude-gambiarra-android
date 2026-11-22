@@ -1,0 +1,26 @@
+==============================================================
+                     LINUX
+==============================================================
+
+Para abrir:
+
+    chmod +x iniciar.sh
+    ./iniciar.sh
+
+O que ele faz:
+  - exporta UTF-8 e TERM com 256 cores
+  - acha o python3 (3.9+) no PATH
+  - instala o selenium se faltar
+  - entrega tudo para o iniciar.py
+
+Requisitos:
+  Debian/Ubuntu :  sudo apt install python3 python3-pip
+  Fedora        :  sudo dnf install python3 python3-pip
+  Arch          :  sudo pacman -S python python-pip
+
+Terminal recomendado: qualquer um com ANSI (o padrao ja serve).
+No Windows Subsystem for Linux use o proprio iniciar.sh.
+
+--------------------------------------------------------------
+  Gambiarra-Infinite  -  https://discord.gg/gambiarra
+--------------------------------------------------------------
