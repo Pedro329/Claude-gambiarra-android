@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install flet==0.23.2
-      - run: flet build apk --project claudeinfinite --product "Claude infinite"
+      - run: flet build apk --module-name app --project claudeinfinite --product "Claude infinite"
       - uses: actions/upload-artifact@v4
         with:
           name: Claude-Infinite-APK
