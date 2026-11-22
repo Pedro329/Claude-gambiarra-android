@@ -9,11 +9,14 @@ jobs:
         with:
           distribution: 'zulu'
           java-version: '17'
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - run: pip install flet==0.23.2
-      - run: yes | flet build apk --project claudeinfinite --product "Claude infinite"
+      - run: flet build apk --project claudeinfinite --product "Claude infinite"
       - uses: actions/upload-artifact@v4
         with:
           name: Claude-Infinite-APK
